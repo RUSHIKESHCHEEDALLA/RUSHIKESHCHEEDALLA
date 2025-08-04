@@ -17,7 +17,7 @@
 - 🏫 Final Year IT Student at Chaitanya Bharathi Institute of Technology , Hyderabad
 - 👨‍💻 Passionate about Full-Stack Development
 - 💻 Currently practicing DSA to strengthen problem-solving skills
-- ⚡ Exploring Cloud Computing & DevOps
+- ⚡ Exploring Cloud Computing & GenAi
 
 ---
 
