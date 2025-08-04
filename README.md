@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/cheedallarushik1"><img src="https://img.shields.io/badge/HackerRank-rushikesh-green?style=flat-square&logo=HackerRank" /></a>
-  <a href="[https://www.linkedin.com/in/surajthammi/](https://www.linkedin.com/in/akashgarine/)"><img src="https://img.shields.io/badge/LinkedIn-akashgarine-blue?style=flat-square&logo=LinkedIn" /></a>
-  <a href="https://leetcode.com/akashgarine/"><img src="https://img.shields.io/badge/LeetCode-akashgarine-orange?style=flat-square&logo=LeetCode" /></a>
-  <a href="mailto:akashgarine123@gmail.com"><img src="https://img.shields.io/badge/Email-akashgarine123@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/rushikeshcheedalla/"><img src="https://img.shields.io/badge/LinkedIn-rushikesh-blue?style=flat-square&logo=LinkedIn" /></a>
+  <a href="https://leetcode.com/u/rushikesh_cheedalla_/"><img src="https://img.shields.io/badge/LeetCode-rushikesh-orange?style=flat-square&logo=LeetCode" /></a>
+  <a href="mailto:cheedallarushikesh@gmail.com"><img src="https://img.shields.io/badge/Email-cheedallarushikesh@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 ---
