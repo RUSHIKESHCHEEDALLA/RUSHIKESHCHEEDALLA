@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rushikesh Cheedalla</h1>
 
-<div align="center">
-  <a href="https://akash-garine.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Akash.tech-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
-  </a>
-</div>
 
 <h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
 
