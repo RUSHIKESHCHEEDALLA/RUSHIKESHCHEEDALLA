@@ -5,9 +5,11 @@
 <h3 align="center">Undergraduate |  Aspiring Software Developer | GenAI & Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/cheedallarushik1"><img src="https://img.shields.io/badge/HackerRank-rushikesh-green?style=flat-square&logo=HackerRank" /></a>
   <a href="https://www.linkedin.com/in/rushikeshcheedalla/"><img src="https://img.shields.io/badge/LinkedIn-rushikesh-blue?style=flat-square&logo=LinkedIn" /></a>
   <a href="https://leetcode.com/u/rushikesh_cheedalla_/"><img src="https://img.shields.io/badge/LeetCode-rushikesh-orange?style=flat-square&logo=LeetCode" /></a>
+  <a href="https://www.codechef.com/users/rushikeshchrk">
+  <img src="https://img.shields.io/badge/CodeChef-rushikesh-764ABC?style=flat-square&logo=CodeChef&logoColor=white" />
+</a>
   <a href="mailto:cheedallarushikesh@gmail.com"><img src="https://img.shields.io/badge/Email-cheedallarushikesh@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
 
