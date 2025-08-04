@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rushikesh Cheedalla</h1>
 
 
-<h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
+<h3 align="center">Undergraduate |  Aspiring Software Developer | GenAI & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/cheedallarushik1"><img src="https://img.shields.io/badge/HackerRank-rushikesh-green?style=flat-square&logo=HackerRank" /></a>
