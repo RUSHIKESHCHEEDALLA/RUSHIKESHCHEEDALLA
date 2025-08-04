@@ -14,11 +14,9 @@
 ---
 
 ## 🚀 About Me
-- 🏫 Final Year IT Student at Chaitanya Bharathi Institute of Technology , Hyderabad
-- 👨‍💻 Passionate about Full-Stack Development
-- 💻 Currently practicing DSA to strengthen problem-solving skills
-- ⚡ Exploring Cloud Computing & GenAi
-
+- 🎓 Final Year Information Technology Student at Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad
+- 📊 Actively enhancing problem-solving skills through regular practice in Data Structures & Algorithms
+- ☁️ Currently exploring Cloud Computing and the potential of Generative AI in modern applications
 ---
 
 ## 🛠 Tech Stack
