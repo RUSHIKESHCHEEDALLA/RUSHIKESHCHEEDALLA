@@ -20,7 +20,6 @@
 - 📊 Actively enhancing problem-solving skills through regular practice in Data Structures & Algorithms
 - ☁️ Currently exploring Cloud Computing and the potential of Generative AI in modern applications
 ---
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +44,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
----
+
+### 🧠 AI/ML & Data
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Big Data Analytics](https://img.shields.io/badge/Big%20Data%20Analytics-3E7BB6?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### 💾 Core CS Subjects
+![DBMS](https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge&logo=mysql&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-607D8B?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-009688?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀
